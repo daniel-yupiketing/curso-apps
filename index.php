@@ -1,3 +1,3 @@
 <?php
 
-	echo '<p>Hola, ¿qué tal? Bien</p>';
+	echo '<p>Hola, ¿qué tal? Bien, gracias</p>';
