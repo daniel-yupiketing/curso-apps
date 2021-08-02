@@ -1,5 +1,4 @@
 <?php
 
-	echo '<p>Hola, ¿qué tal? Bien</p>';
-
-echo '<div>ok</div>';
+	echo '<p>Hola, ¿qué tal? Bien, gracias</p>';
+	echo '<div>ok</div>';
